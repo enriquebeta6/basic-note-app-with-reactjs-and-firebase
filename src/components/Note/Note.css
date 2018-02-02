@@ -1,0 +1,22 @@
+.note {
+  background: #fff;
+  color: #000;
+  padding: 1em;
+  margin: 1em;
+  border-radius: 5px;
+}
+
+.note span {
+  display: block;
+  text-align: right;
+}
+
+.delete {
+  font-size: 1.3em;
+  cursor: pointer;
+  color: red;
+}
+
+.note .content  {
+  padding: .5em 1em;
+}

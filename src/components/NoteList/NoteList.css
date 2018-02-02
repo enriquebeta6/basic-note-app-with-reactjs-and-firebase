@@ -1,0 +1,5 @@
+.notes-body ul {
+  list-style: none;
+  max-height: 60vh;
+  overflow-y: auto;
+}

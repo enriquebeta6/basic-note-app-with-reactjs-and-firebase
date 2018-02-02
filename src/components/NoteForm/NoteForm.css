@@ -1,0 +1,19 @@
+.notes-footer > .form-container {
+  display: flex;
+  flex-direction: column;
+  width: 30%;
+  margin: 0 auto;
+}
+
+.notes-footer input {
+  padding: .5em 1em;
+  margin-bottom: 1em;
+}
+
+.notes-footer button {
+  padding: 1em 0;
+  background: goldenrod;
+  border: none;
+  color: #fff;
+  cursor: pointer;
+}
